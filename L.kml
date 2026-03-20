@@ -35,6 +35,10 @@
 		<LineStyle>
 			<color>ffff5500</color>
 		</LineStyle>
+		<PolyStyle>
+  			<color>ff0055ff</color>
+  			<fill>1</fill>
+		</PolyStyle>
 	</Style>
 	<Placemark>
 		<name>L</name>
